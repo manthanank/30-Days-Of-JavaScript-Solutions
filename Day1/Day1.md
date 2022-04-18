@@ -1,4 +1,4 @@
-1. Write a single line comment which says, comments can make code readable
+1. Write a single line comment which says, comments can make code readable.
 
 2. Write another single comment which says, Welcome to 30DaysOfJavaScript
 
@@ -20,4 +20,4 @@
 
 🎉 COMPLETED ! 🎉
 
-[Day 2 >>](./Day2.md)
+[Day 2 >>](./Day2/Day2.md)

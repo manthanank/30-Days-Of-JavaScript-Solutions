@@ -18,6 +18,6 @@
 
 10. Declare two variables myAge and yourAge and assign them initial values and log to the browser console.
 
-🎉 CONGRATULATIONS ! 🎉
+🎉 COMPLETED ! 🎉
 
-[Day 2 >>](./Day2/Day2.md)
+[Day 2 >>](./Day2.md)

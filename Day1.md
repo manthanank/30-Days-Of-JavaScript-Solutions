@@ -20,4 +20,4 @@
 
 🎉 CONGRATULATIONS ! 🎉
 
-[Day 2 >>](./day2/day2.md)
+[Day 2 >>](./Day2/Day2.md)

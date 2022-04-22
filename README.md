@@ -4,15 +4,15 @@
 
 [Day 2](./Day2/Day2.md)
 
-[Day 3](./Day3.md)
+[Day 3](./Day3/Day3.md)
 
-[Day 4](./Day4.md)
+[Day 4](./Day4/Day4.md)
 
-[Day 5](./Day5.md)
+[Day 5](./Day5/Day5.md)
 
-[Day 6](./Day6.md)
+[Day 6](./Day6/Day6.md)
 
-[Day 7](./Day7.md)
+[Day 7](./Day7/Day7.md)
 
 [Day 8](./Day8.md)
 

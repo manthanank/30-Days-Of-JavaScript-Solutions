@@ -120,9 +120,9 @@ const ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 2.Find the median age(one middle item or two middle items divided by two)
 3.Find the average age(all items divided by number of items)
 4.Find the range of the ages(max minus min)
-5.Compare the value of (min - average) and (max - average), use abs() method 1.Slice the first ten countries from the [countries array](./Day5/day5.js)
+5.Compare the value of (min - average) and (max - average), use abs() method 1.Slice the first ten countries from the [countries array](https://github.com/manthanank/30daysof-javascript-excercise/blob/main/Day5/countries.js)
 
-2. Find the middle country(ies) in the [countries array](./Day5/day6.js)
+2. Find the middle country(ies) in the [countries array](https://github.com/manthanank/30daysof-javascript-excercise/blob/main/Day5/countries.js)
 
 3. Divide the countries array into two equal arrays if it is even. If countries array is not even , one more country for the first half.
 

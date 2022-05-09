@@ -139,7 +139,6 @@ const txt = `{
 
 2. Find the user who has many skills from the variable stored in txt.
 
-Practice
 
 🎉 COMPLETED ! 🎉
 

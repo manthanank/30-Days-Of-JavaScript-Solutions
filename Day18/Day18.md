@@ -34,4 +34,4 @@ const catsAPI = 'https://api.thecatapi.com/v1/breeds'
 
 🎉 COMPLETED ! 🎉
 
-(./Day16/Day16.md)[<< Day 16] | [Day 18 >>](./Day18/Day18.md)
+(./Day17/Day17.md)[<< Day 17] | [Day 19 >>](./Day19/Day19.md)

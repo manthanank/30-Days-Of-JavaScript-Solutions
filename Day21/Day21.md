@@ -73,4 +73,4 @@ DOM: Mini project 1
 
 🎉 COMPLETED ! 🎉
 
-(./Day19/Day19.md)[<< Day 19] | [Day 21 >>](./Day21/Day21.md)
+(./Day20/Day20.md)[<< Day 20] | [Day 22 >>](./Day22/Day22.md)

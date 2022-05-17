@@ -19,4 +19,4 @@
 
 🎉 COMPLETED ! 🎉
 
-(./Day21/Day21.md)[<< Day 21] | [Day 23 >>](./Day23/Day23.md)
+(./Day23/Day23.md)[<< Day 23] | [Day 25 >>](./Day25/Day25.md)

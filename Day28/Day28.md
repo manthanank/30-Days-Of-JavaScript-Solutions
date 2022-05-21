@@ -18,4 +18,4 @@
 
 🎉 COMPLETED ! 🎉
 
-(./Day26/Day26.md)[<< Day 26] | [Day 28 >>](./Day28/Day28.md)
+(./Day27/Day27.md)[<< Day 27] | [Day 29 >>](./Day29/Day29.md)

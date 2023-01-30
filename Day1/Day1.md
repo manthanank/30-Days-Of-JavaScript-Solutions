@@ -93,6 +93,6 @@
     console.log(yourAge);
     ```
 
-🎉 COMPLETED ! 🎉
+🎉 ✅COMPLETED 🎉
 
 [Day 2 >>](./Day2/Day2.md)

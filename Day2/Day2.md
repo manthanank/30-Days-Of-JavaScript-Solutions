@@ -322,4 +322,4 @@ Level : 3
 
 🎉 Completed✅ 🎉
 
-[<< Day 1](/Day1/Day1.md) | [Day 3 >>](./Day3/Day3.md)
+[<< Day 1](/Day1/Day1.md) | [Day 3 >>](/Day3/Day3.md)

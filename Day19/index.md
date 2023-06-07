@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Day 19: Promises.</h1>
+  <h1> Day 19: Closures.</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/manthan-ankolekar-597b07a8/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>

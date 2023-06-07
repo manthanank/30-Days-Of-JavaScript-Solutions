@@ -16,19 +16,30 @@
 
 1. Create a div container on HTML document and create 100 to 100 numbers dynamically and append to the container div.
 
-1.Even numbers background is green
-2.Odd numbers background is yellow
-3.Prime numbers background is red
+    1. Even numbers background is green
+    2. Odd numbers background is yellow
+    3. Prime numbers background is red
+
+    ```jsx
+
+    ```
 
 ## Level : 2
 
 1. Use the countries array to display all the countries.See the design
 
+    ```jsx
+
+    ```
+
 ## Level : 3
 
 1. Check the requirement of this project from both images(jpg and gif). All the data and CSS has been implemented using JavaScript only. The data is found on starter folder project_3. The drop down button has been created using details HTML element.
 
+    ```jsx
 
-🎉 COMPLETED ! 🎉
+    ```
 
-(./Day21/Day21.md)[<< Day 21] | [Day 23 >>](./Day23/Day23.md)
+🎉 ✅Completed 🎉
+
+[<< Day 21](/Day21/Day21.md) | [Day 23 >>](/Day23/Day23.md)

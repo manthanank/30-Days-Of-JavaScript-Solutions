@@ -22,4 +22,4 @@ Practice
 
 🎉 ✅Completed 🎉
 
-[<< Day 13](/Day13/Day13.md) | [Day 15 >>](/Day15/Day15.md)
+[<< Day 13](/Day13/index.md) | [Day 15 >>](/Day15/index.md)

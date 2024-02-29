@@ -12,4 +12,4 @@ No Exercise
 
 🎉 ✅Completed 🎉
 
-[<< Day 19](/Day19/Day19.md) | [Day 21 >>](/Day21/Day21.md)
+[<< Day 19](/Day19/index.md) | [Day 21 >>](/Day21/index.md)

@@ -97,4 +97,4 @@
 
 🎉 ✅COMPLETED 🎉
 
-[Day 2 >>](./Day2/Day2.md)
+[Day 2 >>](./Day02/index.md)

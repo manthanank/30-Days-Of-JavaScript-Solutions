@@ -18,4 +18,4 @@
 
 🎉 ✅Completed 🎉
 
-[<< Day 24](/Day24/Day24.md) | [Day 26 >>](/Day26/Day26.md)
+[<< Day 24](/Day24/index.md) | [Day 26 >>](/Day26/index.md)

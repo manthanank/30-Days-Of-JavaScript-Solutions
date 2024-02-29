@@ -244,4 +244,4 @@
 
 🎉 ✅Completed 🎉
 
-[<< Day 11](/Day11/Day11.md) | [Day 13 >>](/Day13/Day13.md)
+[<< Day 11](/Day11/index.md) | [Day 13 >>](/Day13/index.md)

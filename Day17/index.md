@@ -95,4 +95,4 @@
 
 🎉 ✅Completed 🎉
 
-[<< Day 16](/Day16/Day16.md) | [Day 18 >>](/Day18/Day18.md)
+[<< Day 16](/Day16/index.md) | [Day 18 >>](/Day18/index.md)

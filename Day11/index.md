@@ -387,4 +387,4 @@ const users = [
 
 🎉 ✅Completed 🎉
 
-[<< Day 10](/Day10/Day10.md) | [Day 12 >>](/Day12/Day12.md)
+[<< Day 10](/Day10/index.md) | [Day 12 >>](/Day12/index.md)

@@ -116,4 +116,4 @@
 
 🎉 ✅Completed 🎉
 
-[<< Day 18](/Day18/Day18.md) | [Day 20 >>](/Day20/Day20.md)
+[<< Day 18](/Day18/index.md) | [Day 20 >>](/Day20/index.md)

@@ -170,4 +170,4 @@ Level : 3
 
 🎉 ✅Completed 🎉
 
-[<< Day 9](/Day9/Day9.md) | [Day 11 >>](/Day11/Day11.md)
+[<< Day 9](/Day09/index.md) | [Day 11 >>](/Day11/index.md)

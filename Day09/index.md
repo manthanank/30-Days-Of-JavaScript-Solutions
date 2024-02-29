@@ -653,4 +653,4 @@ Level : 3
 
 🎉 ✅Completed 🎉
 
-[<< Day 8](/Day8/Day8.md) | [Day 10 >>](/Day10/Day10.md)
+[<< Day 8](/Day08/index.md) | [Day 10 >>](/Day10/index.md)

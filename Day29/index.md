@@ -16,4 +16,4 @@
 
 🎉 ✅Completed 🎉
 
-[<< Day 28](/Day28/Day28.md) | [Day 30 >>](/Day30/Day30.md)
+[<< Day 28](/Day28/index.md) | [Day 30 >>](/Day30/index.md)

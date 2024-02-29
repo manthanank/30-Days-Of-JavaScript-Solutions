@@ -396,4 +396,4 @@ DOM: Mini project 1
 
 🎉 ✅Completed 🎉
 
-[<< Day 20](/Day20/Day20.md) | [Day 22 >>](/Day22/Day22.md)
+[<< Day 20](/Day20/index.md) | [Day 22 >>](/Day22/index.md)

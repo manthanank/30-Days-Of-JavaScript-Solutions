@@ -384,4 +384,4 @@ const txt = `{
 
 🎉 ✅Completed 🎉
 
-[<< Day 15](/Day15/Day15.md) | [Day 17 >>](/Day17/Day17.md)
+[<< Day 15](/Day15/index.md) | [Day 17 >>](/Day17/index.md)
